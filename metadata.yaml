@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/577
     wikipedia: http://www.online-literature.com/myrtle-reed/
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42894#The-Shadow-of-VictoryA-Romance-of-Fort-Dearborn
 gutenberg_issued: '2013-06-08'
 gutenberg_type: Text
 identifiers:
